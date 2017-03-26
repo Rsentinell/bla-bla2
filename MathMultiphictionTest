@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class MathMultiphictionTest {
 
-	public static void main(String[] args)throws Exception {
+	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		/* write program what will test child with multiplication. There are three difficulty and two chance to write correct answer.
 		 first correct answer is two points second is one point. after second wrong answer will show correct answer and child get
