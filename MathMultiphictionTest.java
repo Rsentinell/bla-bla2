@@ -3,9 +3,9 @@ public class MathMultiphictionTest {
 
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
-		/* write program what will test child with multiplication. There are three difficulty and two chance to write correct answer.
-		 first correct answer is two points second is one point. after second wrong answer will show correct answer and child get
-		 no points next child will be asked if he/she want another question or waned end test.
+		/** write program what will test child with multiplication. There are three difficulty and two chance       * to write correct answer.
+		 * first correct answer is two points second is one point. after second wrong answer will show correct answer and child get
+		*  no points next child will be asked if he/she want another question or waned end test.
 		*/
 		
 		int Dific, Cont = 1;
